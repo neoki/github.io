@@ -94,7 +94,7 @@ Las organizaciones pueden protegerse mediante:
 ## 📧 Contacto
 
 Para preguntas sobre este material educativo:
-- **Email:** pablo.calvino@udc.es
+- **Email:** pablo.calvino.padin@udc.es
 - **Institución:** Universidad de A Coruña
 
 ## 📄 Licencia
